@@ -85,9 +85,4 @@
 ' ![WhatsApp Image 2025-03-25 at 23 17 47_a0155a53](https://github.com/user-attachments/assets/672efe71-f176-4362-8fd0-7b444af1976a)
 ' ![WhatsApp Image 2025-03-25 at 23 18 28_eb38d162](https://github.com/user-attachments/assets/5bbe28b5-b302-4dc1-83fc-a1bafe419f23)
 
-' ***************************************
-' * 🤝 Contributors *
-' ***************************************
-' - Satyam Swayamjeet Sahoo
 
-' 📌 Feel free to contribute and improve this project!
