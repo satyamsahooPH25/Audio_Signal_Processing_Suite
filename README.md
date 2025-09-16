@@ -4,23 +4,6 @@ This project is a comprehensive solution for multi-speaker audio signal processi
 
 -----
 
-### 🚀 Getting Started
-
-To run this project, follow these simple steps:
-
-1.  **Audio Files:** Replace the placeholder files `sample_male.wav` and `sample_female.wav` in the project directory with your desired audio samples.
-2.  **Dependencies:** Install all required libraries by running the following command in your terminal:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Execution:** Run the main script to process your audio files:
-    ```bash
-    python main.py
-    ```
-4.  **GPU Support:** The `predict.py` script is optimized for CUDA. If you do not have CUDA support, you can modify the script to run on the CPU by changing the device setting.
-
------
-
 ### 🎯 Project Overview
 
 The core objectives of this project include:
