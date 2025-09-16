@@ -21,6 +21,9 @@ The core objectives of this project include:
 ### 🎵 Input Signal Simulation
 
 Mixed multi-speaker audio signals (male and female) were generated and combined with synthetic noise (e.g., Gaussian noise) using MATLAB's Audio Toolbox to simulate a complex acoustic environment.
+' [Image]
+
+' ![WhatsApp Image 2025-03-25 at 22 36 52_bab79a8b](https://github.com/user-attachments/assets/6a5454fa-53c1-4661-9f5d-858262d42452)
 
 -----
 
@@ -39,6 +42,12 @@ A microphone array was simulated using MATLAB's Phased Array System Toolbox to a
   * Male Speaker: 0°
   * Female Speaker: -20.859°
   * *Note: The results are remarkably accurate, with the system successfully identifying the distinct arrival angles of each speaker.*
+
+' [Images]
+
+' ![WhatsApp Image 2025-03-25 at 22 47 21_9a0c1ad4](https://github.com/user-attachments/assets/812fd0bd-2cae-47e8-8390-8060542c05f9)
+
+' ![WhatsApp Image 2025-03-25 at 23 31 30_2b0eb1a4](https://github.com/user-attachments/assets/27c74867-c917-4f25-b4a9-d6cb62ab2b9e)
 
 -----
 
