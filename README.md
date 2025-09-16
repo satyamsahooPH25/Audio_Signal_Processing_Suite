@@ -1,4 +1,4 @@
-## Athena Audio Signal Processing Suite 🔊
+## Audio Signal Processing Suite 🔊
 
 This project is a comprehensive solution for multi-speaker audio signal processing, leveraging advanced techniques from signal processing and deep learning. The primary goal is to accurately separate, denoise, and classify individual speakers from a mixed audio source, emulating a real-world "cocktail party" scenario.
 
